@@ -24,7 +24,7 @@ Este proyecto implementa un catálogo de libros usando Spring Boot.
 * [Conclusion](#Conclusion)
 
 ## Descripcion del proyecto
-Proyecto challenge "literatura" del curso Java y Spring Framework  . Este proyecto consiste en implementar un programa hecho en java utilizando la orientacion a objetos , se realiza solicitudes a una API delibros utilizando JSON,guardarlos en una base de datos utilizando PostgreSQL y, finalmente, a filtrar y mostrar los libros y autores de interés.
+Proyecto challenge "literatura" del curso Java y Spring Framework  . Este proyecto consiste en implementar un programa hecho en java utilizando la orientacion a objetos , se realiza solicitudes a una API de libros (Gutendex) y guardar los datos JSON en una base de datos utilizando PostgreSQL y, finalmente, a filtrar y mostrar los libros y autores de interés.
 
 ## Estado del proyecto
 Culminado
@@ -73,17 +73,18 @@ Si no encuentra el libro , mostrara en pantalla que no se encontro dicho libro :
 ## 🔗Acceso al proyecto 
 Si deseas puedes acceder al proyecto a traves del siguinete enlace:
 
-  https://github.com/ejaimer/challenge-conversor-de-monedas/tree/main/src/com/edward
+  https://github.com/ejaimer/challenge-literatura
 
 ## ✔️ Tecnologias utilizadas
 - Java
 - Maven
-- ExchangeRate-API
-
+- Gutendex-API
+- PostgreSQL
+- JPA
 ## Personas-Desarrolladores del proyecto
 | [<img src="https://avatars.githubusercontent.com/u/70885445?s=400&u=6cbe5aa76688201740b9ae2cafbf789ab55bc533&v=4" width=115><br><sub>Edward Jaime Ricra</sub>](https://github.com/ejaimer) |
 | :---: | 
 
 ## Conclusiones
-- Se utilizo 3 clases Concretas : MenuCoversor,ConusltaTasa,RegistroCambiosMoneda para poder modelar la funcionalidad de nuestro programa.
-- Se una clase Record,TasaDeCambio , esta última para poder registar los valores de cambios obtenidos de la API Exchange.
+- Se utilizo Java orientado a objetos , consula a una API de libros , se guardo la informacion en una base de datos y se creo un menu interactivo  con el usuario para mostrar informacion determinada.
+
