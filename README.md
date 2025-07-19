@@ -1,9 +1,8 @@
 <header>
   <h1 align = "center" width="70%"> CHALLENGE LITERATURA </h1>
-  <img src="https://github.com/user-att![BIBLIOTECA DIGITAL](https://github.com/user-attachments/assets/890d01b1-e771-4e62-80b4-87650dff0543)
-achments/assets/e48df976-9de7-423c-b941-5e489fa5cbcc" width="10%">
+  <img src="https://github.com/user-attachments/assets/890d01b1-e771-4e62-80b4-87650dff0543" width="10%">
 </header>
-<h2>Implementación challenge conversor de monedas - Alura</h2>
+<h2>Implementación challenge catalogo de libros - Alura</h2>
 ![Badge finished](https://img.shields.io/badge/STATUS-FINISHED-GREEN)
 
 ## Indice
