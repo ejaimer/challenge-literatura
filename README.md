@@ -3,7 +3,7 @@
   <img src="https://github.com/user-attachments/assets/890d01b1-e771-4e62-80b4-87650dff0543" width="10%">
 </header>
 <h2>Implementación challenge catalogo de libros - Alura</h2>
-![Badge finished](https://img.shields.io/badge/STATUS-FINISHED-GREEN)
+![STATUS](https://img.shields.io/badge/STATUS-FINISHED-GREEN)
 
 ## Indice
 * [Titulo e imagen de portada](#Titulo-e-imagen-de-portada)
